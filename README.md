@@ -38,7 +38,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/SARII-TutoredProjectCobotUR3.git
+   git clone https://github.com/0xPB/SARII-TutoredProjectCobotUR3.git
    ```
 
 2. Install the required libraries using the following command:

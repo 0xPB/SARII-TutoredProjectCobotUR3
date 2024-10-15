@@ -1,19 +1,19 @@
 
-# SARII-TutoredProjectCobotUR3
+# 🤖 SARII-TutoredProjectCobotUR3
 
 This project allows you to control a **UR3 Cobot** equipped with a **Robotiq Two-Finger Gripper** using Python via an Ethernet connection. It includes a graphical user interface (GUI) built with **Tkinter** for controlling the cobot and gripper, viewing joint and TCP positions, and configuring movement settings.
 
-## Features
+## ✨ Features
 
-- Control the **UR3 Cobot** with precise joint and TCP movements.
-- Operate the **Robotiq Gripper** with commands to open, close, or set a custom position.
-- Built-in **security checks** for velocity and acceleration limits to ensure safe operations.
-- Includes a **graphical user interface (GUI)** to monitor and control the robot, built with Tkinter.
-- Compatible with both **Windows** and **Linux** (MacOS is not supported).
-- Option to switch between light and dark themes for the GUI.
-- Connect to the robot using an Ethernet connection, with support for setting custom IP addresses.
+- 🦾 Control the **UR3 Cobot** with precise joint and TCP movements.
+- 🛠️ Operate the **Robotiq Gripper** with commands to open, close, or set a custom position.
+- 🚨 Built-in **security checks** for velocity and acceleration limits to ensure safe operations.
+- 💻 Includes a **graphical user interface (GUI)** to monitor and control the robot, built with Tkinter.
+- 🖥️ Compatible with both **Windows** and **Linux** (MacOS is not supported).
+- 🌗 Option to switch between light and dark themes for the GUI.
+- 🌐 Connect to the robot using an Ethernet connection, with support for setting custom IP addresses.
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ Make sure you have the following prerequisites installed:
   - `tkinter`
   
 You can install the required libraries using the following command:
-Note: URBasic is already in the src folder and will not be installed with the following command.
+(Note: URBasic is already in the src folder and will not be installed with the following command.)
 
 ```bash
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 
-3. Connect the **UR3 Cobot** and **Robotiq Gripper** to your computer using an Ethernet cable.
+3. 🔌 Connect the **UR3 Cobot** and **Robotiq Gripper** to your computer using an Ethernet cable.
 
 4. Run the Python script to launch the application:
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
    python main.py
    ```
 
-## How to Use
+## 🛠️ How to Use
 
 - **Get Joint Angles**: Retrieve the current angles of the UR3 joints.
 - **Get TCP Pose**: Retrieve the current Tool Center Point (TCP) position of the UR3.
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 - **Home Position**: Move the UR3 Cobot to the predefined home position.
 - **Notice**: Access the included documentation file (.pdf).
 
-## GUI Overview
+## 🖥️ GUI Overview
 
 The graphical interface allows users to control the UR3 Cobot and Robotiq Gripper through easy-to-use buttons and input fields. The main sections include:
 
@@ -76,11 +76,11 @@ The graphical interface allows users to control the UR3 Cobot and Robotiq Grippe
 - **Connection Status**: Shows the current connection state of the robot.
 - **Additional Controls**: Access the home position, switch GUI themes, and open the documentation file.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Authors
+## 👥 Authors
 
 - **Paul Bruno** and **Alexis Pele**  
   Alternants Siemens - Licence Pro SARII, IUT de Bordeaux  

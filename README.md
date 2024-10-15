@@ -19,7 +19,7 @@ This project allows you to control a **UR3 Cobot** equipped with a **Robotiq Two
 
 Make sure you have the following prerequisites installed:
 
-- **Python 3.8+**
+- **Python between version 3.8+ and 3.11-**
 - Required Python libraries:
   - `URBasic`
   - `urx`
@@ -27,6 +27,7 @@ Make sure you have the following prerequisites installed:
   - `tkinter`
   
 You can install the required libraries using the following command:
+Note: URBasic is already in the src folder and will not be installed with the following command.
 
 ```bash
 pip install -r requirements.txt

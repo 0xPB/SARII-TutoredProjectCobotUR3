@@ -1,4 +1,3 @@
-
 # 🤖 SARII-TutoredProjectCobotUR3
 
 This project allows you to control a **UR3 Cobot** equipped with a **Robotiq Two-Finger Gripper** using Python via an Ethernet connection. It includes a graphical user interface (GUI) built with **Tkinter** for controlling the cobot and gripper, viewing joint and TCP positions, and configuring movement settings.
@@ -84,6 +83,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - **Paul Bruno** and **Alexis Pele**  
   Alternants Siemens - Licence Pro SARII, IUT de Bordeaux  
-  Promotion 2022-2023  
-
-Version: 1.0 - Glowing Turtle
+  Promotion 2022-2023

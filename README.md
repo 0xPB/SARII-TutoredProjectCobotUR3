@@ -75,12 +75,12 @@ The graphical interface allows users to control the UR3 Cobot and Robotiq Grippe
 - **Connection Status**: Shows the current connection state of the robot.
 - **Additional Controls**: Access the home position, switch GUI themes, and open the documentation file.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## 👥 Authors
 
 - **Paul Bruno** and **Alexis Pele**  
   Alternants Siemens - Licence Pro SARII, IUT de Bordeaux  
   Promotion 2022-2023
+
+## 📜 License
+
+This project is licensed under the GPLv3 License. See the `LICENSE` file for more information.
